@@ -1,6 +1,6 @@
 # Alster Quiz - introprojekt
 
-Forka detta projekt och bygg en quiz-app! Diskutera med din mentor om vilket språk du bygger quizet i (tex React, vanilla JS, Svelte). Appen ska vara responsiv och se bra ut i alla storlekar (mobil till desktop). I projektet vill vi att du använder Typescript och bygger UI-komponenter i Storybook. Så arbetar vi i majoriteten av våra kundprojekt ✌🏼
+Forka detta projekt och bygg en quiz-app! Diskutera med din mentor om vilket ramverk/bibliotek du bygger quizet med (tex React, Svelte eller inget). Appen ska vara responsiv och se bra ut i alla storlekar (mobil till desktop). I projektet vill vi att du använder Typescript och bygger UI-komponenter i Storybook eller motsvarande för det språk/ramverk du valt. Så arbetar vi i majoriteten av våra kundprojekt ✌🏼
 
 ## Detaljer
 
